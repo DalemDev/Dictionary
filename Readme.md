@@ -12,7 +12,9 @@ La aplicación consiste en un buscador de palabras en ingles, los resultados de 
 
 ### Preview
 ![preview 1](./src/assets/img/preview1.PNG)
+
 ![preview 2](./src/assets/img/preview2.PNG)
+
 ![preview 3](./src/assets/img/preview3.PNG)
 ---
-[Demo](https://www.example.com)
+[Demo](https://dictionarydalemdev.netlify.app/)
